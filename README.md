@@ -1,5 +1,14 @@
 # SQL_Challenge
 
+
+![image](https://user-images.githubusercontent.com/119762874/222996231-989b0062-ff0f-4eb6-86cd-3e4a148a9dba.png)
+
+
+
+
+
+
+
 Background
 
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
